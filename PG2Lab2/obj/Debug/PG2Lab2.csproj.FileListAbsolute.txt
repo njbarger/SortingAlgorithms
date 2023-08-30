@@ -1,0 +1,11 @@
+D:\School\Programming 2\Labs\PG2Lab2\PG2Lab2\bin\Debug\inputFile.csv
+D:\School\Programming 2\Labs\PG2Lab2\PG2Lab2\bin\Debug\PG2Lab2.exe.config
+D:\School\Programming 2\Labs\PG2Lab2\PG2Lab2\bin\Debug\PG2Lab2.exe
+D:\School\Programming 2\Labs\PG2Lab2\PG2Lab2\bin\Debug\PG2Lab2.pdb
+D:\School\Programming 2\Labs\PG2Lab2\PG2Lab2\obj\Debug\PG2Lab2.csproj.AssemblyReference.cache
+D:\School\Programming 2\Labs\PG2Lab2\PG2Lab2\obj\Debug\PG2Lab2.csproj.CoreCompileInputs.cache
+D:\School\Programming 2\Labs\PG2Lab2\PG2Lab2\obj\Debug\PG2Lab2.exe
+D:\School\Programming 2\Labs\PG2Lab2\PG2Lab2\obj\Debug\PG2Lab2.pdb
+D:\School\Programming 2\Labs\PG2Lab2\PG2Lab2\bin\Debug\Newtonsoft.Json.dll
+D:\School\Programming 2\Labs\PG2Lab2\PG2Lab2\bin\Debug\Newtonsoft.Json.xml
+D:\School\Programming 2\Labs\PG2Lab2\PG2Lab2\obj\Debug\PG2Lab2.csproj.CopyComplete
